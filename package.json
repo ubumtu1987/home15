@@ -1,0 +1,27 @@
+{
+  "name": "home15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubumtu1987/home15.git"
+  },
+  "keywords": [
+    "any",
+    "keys"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubumtu1987/home15/issues"
+  },
+  "homepage": "https://github.com/ubumtu1987/home15#readme",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  }
+}
